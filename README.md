@@ -8,6 +8,7 @@ TODO:
 - pidemmät laskutoimitukset
 - sulkeiden toiminta
 
+#Very simple calculator:
 
 Created in Finnish as it was so in task description. A simple calculator, school task in SASKY.
 - addition and subsraction
